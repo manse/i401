@@ -16,7 +16,8 @@ Add functionality for time signal with Kanmusu Nendoroid. Read and play sound in
 
 ### Software
 1. Import project into MPLABX IDE
-2. Select PIC16F1705 //TODO
+2. Select PIC16F1705 in project property
+3. Run
 
 ## Usage
 1. On the hour, turn on device
