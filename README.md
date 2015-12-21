@@ -4,7 +4,7 @@ Add functionality for time signal with Kanmusu Nendoroid. Read and play sound in
 ## Setup
 ### Hardware
 #### Circuit
-![screenshot](https://raw.githubusercontent.com/manse/i401/master/readme/i401.png?token=AAbGPb5INL4hisP6iDW9Tz63in3JfvmGks5WbPApwA%3D%3D)
+![screenshot](https://raw.githubusercontent.com/manse/i401/master/readme/i401.png)
 - Connect Pickit with `JP1` 
 
 #### SD Card
